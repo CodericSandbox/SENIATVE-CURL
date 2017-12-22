@@ -3,7 +3,8 @@
 	/*si no se ha presionado el boton enviar*/
 	if (!isset($_POST["enviar"])) header("Location: index.php");
 	
-	require_once "seniat.ini.php";
+	require_once "Seniat.php";
+	$seniat = new Seniat();
 	$seniat->Consultar($_POST["captcha"], $_POST["rif"], $_POST["fileCaptcha"]);
 
 	session_start();
