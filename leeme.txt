@@ -1,0 +1,8 @@
+SENIAT cURL Libreria v1.0				        
+Realizado por:							               
+  [*] Edgar F. Marquez C. @OneBlaack	
+  [*] Bryan Bencomo					
+  
+  www.bitechstudio.es				
+	Equipo de desarrollo de Bitech Studio
+	2017									
